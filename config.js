@@ -1,1 +1,1 @@
-window.CONFIG={gasUrl:''};
+window.CONFIG={"gasUrl":"https://script.google.com/macros/s/AKfycbzi8yI918jbA4CwgSB8ppEHhyfsQeJa0FK_21LBKnwSrdhkt-NpLCbyAL8St_WOwMPwLQ/exec?course=workbook-mastery"};
